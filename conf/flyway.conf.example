@@ -1,0 +1,4 @@
+flyway.url=jdbc:postgresql://notitas_pg_db:5432/notitas
+flyway.user=postgres
+flyway.password=example
+flyway.baselineOnMigrate=true
